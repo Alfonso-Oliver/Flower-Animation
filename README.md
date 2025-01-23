@@ -1,2 +1,2 @@
 # Flower-Animation
-Flower animation with HTML,CSS and JavaScript
+Flower animation using HTML,CSS and JavaScript
